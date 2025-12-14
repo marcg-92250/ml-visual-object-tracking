@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Résultats (optionnel - décommentez si vous ne voulez pas les commiter)
+# *.mp4
+# ADL-Rundle-6.txt
+
+# Modèles et données volumineuses (si vous ne voulez pas les commiter)
+# reid_osnet_x025_market1501.onnx
+# ADL-Rundle-6/
+# 2D_Kalman-Filter_TP1/
+
